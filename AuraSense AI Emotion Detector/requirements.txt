@@ -1,7 +1,7 @@
-Flask
-opencv-python
-numpy
-keras
+flask
 tensorflow
-
-Pillow
+keras
+numpy
+opencv-python
+pillow
+scikit-learn
