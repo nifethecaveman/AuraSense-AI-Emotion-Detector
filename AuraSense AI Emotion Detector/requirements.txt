@@ -1,7 +1,8 @@
 flask
-tensorflow
-keras
 numpy
 opencv-python
 pillow
+tensorflow
+keras
 scikit-learn
+sqlite3
