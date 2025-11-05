@@ -2,7 +2,7 @@ flask
 numpy
 opencv-python
 pillow
-tensorflow==2.20.0
 keras
 scikit-learn
+
 
