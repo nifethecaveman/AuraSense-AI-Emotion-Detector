@@ -4,5 +4,6 @@ opencv-python
 pillow
 keras
 scikit-learn
+gunicorn
 
 
